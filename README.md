@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emirhan Sarikaya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from The Netherlands</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emirhansarikaya&label=Profile%20views&color=4ea4da&style=flat" alt="emirhansarikaya" /> </p>
 
