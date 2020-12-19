@@ -1,8 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Emirhan I am a fullstack developer 👨‍💻 in progress since 2014 🚀</div>  
   
 
@@ -112,7 +107,4 @@
                     align="center"
                 />
             </a></div>
-<br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
