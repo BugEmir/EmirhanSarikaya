@@ -17,7 +17,7 @@
 
 ## Hackthebox
 
-<img src="http://www.hackthebox.eu/badge/image/394035" alt="Hack The Box"> 
+<script src="https://www.hackthebox.eu/badge/394035"></script>
 
 
 ## My Skill Set  
