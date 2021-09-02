@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact: I use tabs over spaces & code every day 
   
-trophy Bug Bounty:
+:trophy: Bug Bounty:
 - https://app.intigriti.com/researcher/profile/emirhansarikaya 
 
 
