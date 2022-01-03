@@ -9,7 +9,7 @@
 - ❓ Ask me about anything related to MERN stack and related technologies, i can also help with PHP (Laravel 5.* - 8)  
   
 
-- ⚡ Fun fact: I use tabs over spaces & code every day 
+- ⚡ Fun fact: I use tabs over spaces & code every day , P.S: Im a total golang newbie.
   
 :trophy: Bug Bounty:
 - https://app.intigriti.com/researcher/profile/emirhansarikaya 
